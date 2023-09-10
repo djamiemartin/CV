@@ -1,0 +1,7 @@
+#about div{
+    display: flex;
+    justify-content: center;
+}
+#about div img{
+    max-height: 400px;
+}
